@@ -19,4 +19,5 @@ body{
 }
 canvas{
 box-shadow:10px 10px 10px white;
+border-radius:25px;
 }
